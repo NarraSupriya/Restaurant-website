@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Restaurant Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build a React Restaurant Website using Styled Components.
 
 ## Available Scripts
 
